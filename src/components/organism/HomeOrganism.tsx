@@ -1,7 +1,8 @@
 import React from "react";
+import { Gallery } from "../section";
 
 const HomeOrganism: React.FC = () => {
-  return <h1>Home</h1>;
+  return <Gallery />;
 };
 
 export default HomeOrganism;
